@@ -9,6 +9,18 @@
 
 A robust, enterprise-grade web application built with modern technologies and best practices. Delivering high performance, security, and scalability for businesses.
 
+## 🎲 Featured Projects
+
+### DnD Dice Roller
+A comprehensive virtual dice rolling platform for Dungeons & Dragons and tabletop gaming:
+
+- 🎲 [dicerollerdnd.com](https://dicerollerdnd.com) - The Legendary Dice Roller for Heroes, Rogues & Dungeon Masters
+- 🎯 [dnddiceroller.com](https://dnddiceroller.com) - Advanced online dice roller with custom dice sets and combinations
+
+#### Mobile Apps
+- 📱 [iOS App Store](https://apps.apple.com/app/dnd-dice-roller) (Coming Soon)
+- 🤖 [Google Play Store](https://play.google.com/store/apps/details?id=com.tiation.dnddiceroller) (Coming Soon)
+
 ## 🌟 Features
 
 - 🔐 Enterprise-grade Authentication & Authorization
